@@ -76,23 +76,71 @@
         <value>/uPortal/media/skins/common/backgroundImages/galaxy.jpg</value>
         <value>/uPortal/media/skins/common/backgroundImages/mountain.jpg</value>
         <value>/uPortal/media/skins/common/backgroundImages/nebula.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/flowers.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/GrizzStatue.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/MBH.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/orena.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_bridge.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_Campus_SEB.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_dark.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_Group.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_Library.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_RecCenter.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OU_Research.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/OUSign.jpg</value>
     </portlet-preference>
     <portlet-preference>
         <name>defaultBackgroundThumbnailImages</name>
         <value>/uPortal/media/skins/common/backgroundImages/thumbnails/galaxy.jpg</value>
         <value>/uPortal/media/skins/common/backgroundImages/thumbnails/mountain.jpg</value>
         <value>/uPortal/media/skins/common/backgroundImages/thumbnails/nebula.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/flowers.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/GrizzStatue.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/MBH.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/orena.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_bridge.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_Campus_SEB.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_dark.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_Group.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_Library.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_RecCenter.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OU_Research.jpg</value>
+        <value>/uPortal/media/skins/common/backgroundImages/thumbnails/OUSign.jpg</value>
     </portlet-preference>
     <portlet-preference>
         <name>mobileBackgroundImages</name>
         <value>/uPortal/media/skins/muniversality/backgroundImages/galaxy.jpg</value>
         <value>/uPortal/media/skins/muniversality/backgroundImages/mountain.jpg</value>
         <value>/uPortal/media/skins/muniversality/backgroundImages/nebula.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/flowers.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/GrizzStatue.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/MBH.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/orena.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_bridge.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_Campus_SEB.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_dark.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_Group.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_Library.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_RecCenter.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OU_Research.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/OUSign.jpg</value>
     </portlet-preference>
     <portlet-preference>
         <name>mobileBackgroundThumbnailImages</name>
         <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/galaxy.jpg</value>
         <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/mountain.jpg</value>
         <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/nebula.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/flowers.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/GrizzStatue.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/MBH.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/orena.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_bridge.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_Campus_SEB.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_dark.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_Group.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_Library.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_RecCenter.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OU_Research.jpg</value>
+        <value>/uPortal/media/skins/muniversality/backgroundImages/thumbnails/OUSign.jpg</value>
     </portlet-preference>
 </portlet-definition>
