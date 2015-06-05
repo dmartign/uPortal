@@ -71,14 +71,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="packages-column">
-                            <h3 class="package-list-link"><span><spring:message code="packaged.stuff"/></span></h3>
-                            <div class="packages-wrapper">
-                                <div class="packages">
-                                    <p><spring:message code="add.package.instruction"/></p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                     <div class="content-results-wrapper fl-col-main">
                         <div class="column-inner">

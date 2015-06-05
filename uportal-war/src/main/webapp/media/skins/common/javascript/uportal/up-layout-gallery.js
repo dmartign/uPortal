@@ -418,10 +418,6 @@ var up = up || {};
             portletListLink: ".add-content .portlet-list-link",
             portletList: ".add-content .portlet-results",
 
-            fragmentMenu: ".packages-column",
-            fragmentMenuDetail: ".packages-wrapper",
-            fragmentListLink: ".package-list-link",
-            fragmentList: ".package-results"
         },
         events: {
             onInitialize: null,
