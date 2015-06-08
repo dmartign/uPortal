@@ -672,8 +672,6 @@
                         <chunk-point/> <!-- Performance Optimization, see ChunkPointPlaceholderEventSource -->
                         <div class="row">
                             <xsl:call-template name="region.header-left" />
-                        </div>
-                        <div class="row">
                             <xsl:call-template name="region.header-right" />
                         </div>
                     </div>
